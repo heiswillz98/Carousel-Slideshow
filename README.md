@@ -1,7 +1,3 @@
-Carousel slide show using;
+Below is the replit link
 
-HTML
-
-CSS
-
-JAVASCRIPT
+https://carousel.heiswillz98.repl.co
